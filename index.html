@@ -2,7 +2,7 @@
 <head>
 <title>Esther Lee Autobiography</title>
 </head> 
-<body style=“background-color:#fac3d2;”>
+<body style=“background-color:pink;”>
 <p style="font: bold 46px cursive;color:hot pink;text-align:center;">Esther Lee - Autobiography</p>
 <p style="font: bold 38px cursive;color:tan;text-align:center;">CSIT100-37</p>
 <h1>Biography</h!>
